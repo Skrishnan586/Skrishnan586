@@ -3,6 +3,9 @@
 🔭 I’m currently working at Jvs Future Technologies.
 
 🌱 I’m passionate about DevOps and cloud technologies, and I'm continuously learning and exploring new tools and practices in this domain.
+👯 I’m looking to collaborate
+
+🤝 I’m looking for help with Projects and tasks
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshakrithvik) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@Harshakrithvik) 
