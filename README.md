@@ -28,19 +28,11 @@ More badges for other technologies...
 
 ## 🚀 Projects and Contributions:
 
-### Project 1: [Project Name](https://github.com/Skrishnan586/project1)
-Description of the project, its goals, and your contributions.
+### Project 1: Project Mangola - https://github.com/Skrishnan586/A-Dynamic-E-Commerce-Website.git
 
-### Project 2: [Project Name](https://github.com/Skrishnan586/project2)
-Description of the project, its goals, and your contributions.
+### Project 2: Project Fast api - https://github.com/Skrishnan586/fastapi.git
 
 ...
-
-## 📝 Blog Posts:
-- [Blog Title 1](https://medium.com/@@Harshakrithvik/blog-post-1)
-- [Blog Title 2](https://medium.com/@@Harshakrithvik/blog-post-2)
-- ...
-
 ---
 [![Visits](https://visitcount.itsvg.in/api?id=Skrishnan586&icon=8&color=8)](https://visitcount.itsvg.in)
 
