@@ -1,33 +1,4 @@
-<!-- Adding CSS style for font and background colors -->
-<style>
-  body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f5f5f5;
-  }
-
-  h1, h2, h3 {
-    color: #007BFF;
-  }
-
-  .project-title {
-    font-size: 24px;
-    font-weight: bold;
-    color: #D62727;
-  }
-
-  .blog-title {
-    font-size: 20px;
-    font-weight: bold;
-    color: #E2725B;
-  }
-
-  .project-description, .blog-description {
-    font-size: 16px;
-    color: #555;
-  }
-</style>
-
-# 👋 Hello, I'm Harikrishnan - Aspiring DevOps Engineer 👨‍💻
+# 👋 Hello, I'm Harikrishnan - ⚡ Aspiring DevOps Engineer ⚡👨‍💻
 
 🔭 I’m currently working at Jvs Future Technologies.
 
@@ -57,27 +28,11 @@ More badges for other technologies...
 
 ## 🚀 Projects and Contributions:
 
-<div class="project-title">Project 1: Mangola</div>
-<div class="project-description">A dynamic e-commerce website.</div>
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Mangola-brightgreen)](https://github.com/Skrishnan586/A-Dynamic-E-Commerce-Website.git)
+### Project 1: Mangola - https://github.com/Skrishnan586/A-Dynamic-E-Commerce-Website.git
 
-<div class="project-title">Project 2: Fast API</div>
-<div class="project-description">A FastAPI project showcasing REST APIs.</div>
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Fast%20API-brightgreen)](https://github.com/Skrishnan586/fastapi.git)
+### Project 2: Fast api - https://github.com/Skrishnan586/fastapi.git
 
 ...
-
-## 📝 Blog Posts:
-<div class="blog-title">Blog Title 1</div>
-<div class="blog-description">Description of the blog post and its content.</div>
-[Read More](https://medium.com/@@Harshakrithvik/blog-post-1)
-
-<div class="blog-title">Blog Title 2</div>
-<div class="blog-description">Description of the blog post and its content.</div>
-[Read More](https://medium.com/@@Harshakrithvik/blog-post-2)
-
-...
-
 ---
 [![Visits](https://visitcount.itsvg.in/api?id=Skrishnan586&icon=8&color=8)](https://visitcount.itsvg.in)
 
