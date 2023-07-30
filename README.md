@@ -28,9 +28,9 @@ More badges for other technologies...
 
 ## 🚀 Projects and Contributions:
 
-### Project 1: Project Mangola - https://github.com/Skrishnan586/A-Dynamic-E-Commerce-Website.git
+### Project 1: Mangola - https://github.com/Skrishnan586/A-Dynamic-E-Commerce-Website.git
 
-### Project 2: Project Fast api - https://github.com/Skrishnan586/fastapi.git
+### Project 2: Fast api - https://github.com/Skrishnan586/fastapi.git
 
 ...
 ---
